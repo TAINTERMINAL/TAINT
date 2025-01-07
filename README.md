@@ -3,13 +3,14 @@ Welcome to TAINT – Your malware's favorite sandbox and the ultimate red teamer
 
 This web application empowers red teamers and cybersecurity experts to validate malware evasion techniques, assess detection signatures, and simulate crypto-focused attack behaviors before deployment in the field. Think of it as your personal box for perfecting your tradecraft, while staying undetected by production security systems and blockchain defenses.
 
-Crypto-Specific Analysis & Blockchain Monitoring:
+## Crypto-Specific Analysis & Blockchain Monitoring:
 Cryptocurrency Address Monitoring: AI continuously tracks blockchain transactions across Ethereum, Solana, and other popular networks to identify suspicious wallet interactions, laundering attempts, or ransomware payments.
 Transaction Pattern Detection: Predicts unusual transaction activities such as wallet draining, cross-chain transfers, or token laundering activities.
-Smart Contract Behavior: AI analyzes interactions with smart contracts on Ethereum and Solana, detecting potentially malicious contract calls or exploits.
+## Smart Contract Behavior: 
+AI analyzes interactions with smart contracts on Ethereum and Solana, detecting potentially malicious contract calls or exploits.
 Cross-Chain Attack Simulation: The platform simulates attacks that involve bridging assets between blockchains like Ethereum and Solana, monitoring crypto addresses for fraud, and detecting malware attempting to exfiltrate funds.
 
-AI-Enhanced Analysis Capabilities:
+## AI-Enhanced Analysis Capabilities:
 Static Analysis Engine:
 Signature-based detection using industry-standard rulesets.
 AI-assisted binary entropy analysis to detect unusual encryption patterns.
