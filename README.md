@@ -1,5 +1,5 @@
 # TAINT
-Welcome to TAINT – Your malware's favorite sandbox and the ultimate red teamer’s tool for testing, analyzing, and evading detection in the crypto space. Specifically designed for malware development and payload testing, TAINT integrates AI capabilities with crypto analysis tools to create an intelligent, automated testing environment like no other.
+Welcome to TAINT – Your malware's favorite sandbox and the ultimate red teamer’s tool for testing, analyzing, and evading detection in the crypto space. Specifically designed for malware development/detection procedures and payload testing, TAINT integrates AI capabilities with crypto analysis tools to create an intelligent, automated testing environment like no other.
 
 This web application empowers red teamers and cybersecurity experts to validate malware evasion techniques, assess detection signatures, and simulate crypto-focused attack behaviors before deployment in the field. Think of it as your personal box for perfecting your tradecraft, while staying undetected by production security systems and blockchain defenses.
 
